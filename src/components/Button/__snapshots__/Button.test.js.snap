@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button test case Snapshot testing 1`] = `
+<button>
+  Default Label
+</button>
+`;
