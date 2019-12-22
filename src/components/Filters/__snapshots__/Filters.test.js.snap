@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters Filters Snapshot testing 1`] = `
+<section>
+  <button
+    data-name="blur"
+    onClick={[Function]}
+  >
+    Blur
+  </button>
+  <button
+    data-name="brightness"
+    onClick={[Function]}
+  >
+    Brightness
+  </button>
+  <button
+    data-name="invert"
+    onClick={[Function]}
+  >
+    Invert
+  </button>
+  <button
+    data-name="grayscale"
+    onClick={[Function]}
+  >
+    Grayscale
+  </button>
+  <button
+    data-name="reset"
+    onClick={[Function]}
+  >
+    reset
+  </button>
+</section>
+`;
